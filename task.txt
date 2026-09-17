@@ -1,2 +1,3 @@
 Learning Git commands.
 Practice GitHub.
+Practice pushing and pulling.
