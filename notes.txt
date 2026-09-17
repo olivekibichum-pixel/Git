@@ -1,1 +1,3 @@
 Today I'm learning Git.
+Git tracks changes to files.
+
